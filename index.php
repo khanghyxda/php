@@ -6,6 +6,7 @@
 
 <?php
 echo file_get_contents("https://qhotel.azurewebsites.net");
+echo file_get_contents("https://qhotelapi.azurewebsites.net");
 ?>
 
 </body>
